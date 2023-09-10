@@ -34,4 +34,3 @@ function displayUsers(users) {
   }
 }
 
-// The rest of your code remains the same
